@@ -82,7 +82,7 @@ def check_win(board):
 
 
 def play_game(mine_locations):
-    
+
     board = initialise_board()
     insert_mines(board, mine_locations)
     display_board(board)
