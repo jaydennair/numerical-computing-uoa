@@ -23,6 +23,6 @@ Each assignment is organized in its own subfolder and includes:
 
 ### Author
 
-**Jayden Nair**  
+**Jayden Krish Nair**  
 Engineering Science – University of Auckland  
 GitHub: [@jaydennair](https://github.com/jaydennair)
